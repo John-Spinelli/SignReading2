@@ -1,0 +1,17 @@
+69	7	83	9	2	70	17	17	11	69	7	2	401	105	12	401	401	401	64	401	401																											
+69	Fail	83	9	Fail	Fail	Fail	17		69	7	Fail	401	105	Fail	401	0	‘	Fail	401	400						1	0	1	1	0	0	0	1	0	1	1	0	1	1	0	1	0	0	0	1	0	10
+69	Fail	83		Fail	Fail	Fail			69	7	Fail	401		Fail	401	0		Fail	401	404						1	0	1	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	1	0	7
+9	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401	105	Fail	401	0	401	Fail	401	400						0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	1	0	1	0	1	0	9
+69	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401	5	Fail	401	40		Fail	401	409						1	0	1	0	0	0	0	1	0	1	1	0	1	0	0	1	0	0	0	1	0	8
+69	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401		Fail	401	404	3	Fail	401	404						1	0	1	0	0	0	0	1	0	1	1	0	1	0	0	1	0	0	0	1	0	8
+	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401		Fail	401	109		Fail	401	“00						0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	1	0	0	0	1	0	7
+69	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401		Fail	201	400	6	Fail	401	400						1	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	1	0	7
+69	Fail	83		Fail	Fail	Fail	7			7	Fail	401	5	Fail	401			Fail	40	“0						1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	5
+69	Fail	83		Fail	Fail	Fail	7		69	7	Fail	401	5	Fail	401	Fail	*	Fail	401	40(						1	0	1	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	1	0	7
+69	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401	105	Fail	401	70		Fail	40	70						1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	8
+69	Fail	83	9	Fail	Fail	Fail	7		69	7	Fail	401	105	Fail	401	Fail	‘	Fail	401							1	0	1	1	0	0	0	0	0	1	1	0	1	1	0	1	0	0	0	1	0	9
+69	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401	5	Fail	401	Fail	401	Fail	401	100						1	0	1	0	0	0	0	1	0	1	1	0	1	0	0	1	0	1	0	1	0	9
+69	Fail	83		Fail	Fail	Fail			69	7	Fail	401	5	Fail	“01	Fail		‘	401	Fail						1	0	1	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	1	0	6
+69	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401		Fail	401	Fail		Fail	401	Fail						1	0	1	0	0	0	0	1	0	1	1	0	1	0	0	1	0	0	0	1	0	8
+69	Fail	83		Fail	Fail	Fail	17		69	7	Fail	401	%	Fail	401	Fail		Fail	401	Fail						1	0	1	0	0	0	0	1	0	1	1	0	1	0	0	1	0	0	0	1	0	8
+																																															7.733333333
